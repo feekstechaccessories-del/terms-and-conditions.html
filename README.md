@@ -59,7 +59,7 @@ a {
 <p class="brand">FeeksTech Mobile & Repair</p>
 
 <p class="date">
-<strong>Berkuat kuasa: 30 September 2026</strong>
+<strong>Berkuat kuasa: 3 Februari 2026</strong>
 </p>
 
 <h2>1. Penerimaan Terma</h2>
